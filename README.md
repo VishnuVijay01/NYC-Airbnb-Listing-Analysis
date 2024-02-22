@@ -21,14 +21,14 @@ Table of Contents
   
 ## Analysis
 * This analysis will primarily focus on the listing made on Airbnb website for the year 2019 in New York City.
-* The various aspects had been compaired and prediction are drawn.
+* The various aspects had been compared and prediction are drawn.
 * Data Collection, Cleaning and Preprocessing: Python.
 * Exploratory Data Analysis (EDA): Python.
 * Statistical Analysis: Using Python.
 * Visualization: Python generated.
   
 ## How to Use
-1.	Clone this repository:
+1.	Clone this repository: https://github.com/VishnuVijay01/NYC-Airbnb-Listing-Analysis.git
 2.	Install the necessary pip in python (e.g., numpy, Pandas, matplotlib, Seaborn).
 3.	Open and run the code in pycharm to view the analysis and Visualization.
 
