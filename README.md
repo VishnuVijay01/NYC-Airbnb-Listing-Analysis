@@ -15,7 +15,7 @@ Table of Contents
 * Contains datasets used in the analysis.
 * Outputs Drawn is also updated in the page.
 
-## Data Sourec
+## Data Source
 * New York City Airbnb Open Data.
 * https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/download?datasetVersionNumber=3
   
