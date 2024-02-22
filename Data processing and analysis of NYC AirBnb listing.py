@@ -8,7 +8,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 
 # Load the dataset into a pandas DataFrame
-data: DataFrame = pd.read_excel("D:\AB_NYC_2019.xlsx")
+data: DataFrame = pd.read_csv(""D:\AB_NYC_2019.csv"")
 
 # Handling missing values
 # Let's fill missing values in 'reviews_per_month' with the mean value
